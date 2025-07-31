@@ -1,4 +1,4 @@
-!logo(https://github.com/farrakhnizam786/Agentic_AI-Travel_Agent-using_watsonx/blob/main/Screenshot%202025-07-31%20201943.png)
+![logo](https://github.com/farrakhnizam786/Agentic_AI-Travel_Agent-using_watsonx/blob/main/Screenshot%202025-07-31%20201943.png)
 <div align="center">
 <h1 align="center">✈️ AI Travel Agent powered by IBM WatsonX ✈️</h1>
 <p align="center">
@@ -71,11 +71,9 @@ User Interface: The final response is sent back and displayed to the user in the
 <tr>
 <td>
 <p><em>The agent creating a day-by-day itinerary for a user.</em></p>
-<img src="YOUR_SCREENSHOT_URL_1_HERE" alt="Itinerary Planning Screenshot" width="400"/>
 </td>
 <td>
 <p><em>The agent providing a list of recommended hotels.</em></p>
-<img src="YOUR_SCREENSHOT_URL_2_HERE" alt="Hotel Recommendation Screenshot" width="400"/>
 </td>
 </tr>
 </table>
