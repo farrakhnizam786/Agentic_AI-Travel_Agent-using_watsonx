@@ -1,5 +1,4 @@
-!logo()
-# Agentic_AI-Travel_Agent-using_watsonx
+!logo(https://github.com/farrakhnizam786/Agentic_AI-Travel_Agent-using_watsonx/blob/main/Screenshot%202025-07-31%20201943.png)
 <div align="center">
 <h1 align="center">✈️ AI Travel Agent powered by IBM WatsonX ✈️</h1>
 <p align="center">
